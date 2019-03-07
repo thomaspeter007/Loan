@@ -1,5 +1,5 @@
 # Loan
-#To find a customer eligible for loan or not
+
 import pandas as pd
 import matplotlib.pyplot as plt
 df=pd.read_csv("L1.csv")
